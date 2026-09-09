@@ -1,0 +1,5 @@
+python-telegram-bot
+openai
+pypdf
+faster-whisper
+edge-tts
